@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moises-idasilva
 - 👀 I’m interested in Java, Spring Boot...
-- 🌱 I’m learning Java, trapped in a infinity loop.
+- 🌱 I’m trapped in a infinity loop learning Java.
 - 📫 dev.moises.dasilva@gmail.com
 
 <!---
